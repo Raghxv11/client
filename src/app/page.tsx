@@ -1,9 +1,9 @@
-import Image from "next/image";
+// import Image from "next/image";
 import Hero from "@/components/Hero";
 import DB from "@/components/db";
 import About from "@/components/About";
 import StarsCanvas from "@/components/canvas/Stars";
-import TypewriterBox from "@/components/typewriter/TypewriterBox";
+// import TypewriterBox from "@/components/typewriter/TypewriterBox";
 
 export default function Home() {
   return (
